@@ -1,0 +1,90 @@
+Python 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+>>> 
+>>> IDLE---->>> INTERGRATED DEVELOPMENT LEARNING ENVIRONMENT
+SyntaxError: invalid syntax
+>>> 
+>>> 
+>>> 3+5
+8
+>>> 3*4
+12
+>>> 2%5
+2
+>>> 24%2
+0
+>>> 14%7
+0
+>>> 24/2
+12.0
+>>> 2/5
+0.4
+>>> 5/2
+2.5
+>>> 14//2
+7
+>>> //----->> INTERGER DIVISION
+SyntaxError: invalid syntax
+>>> /------>> FLOAT DIVISION
+SyntaxError: invalid syntax
+>>> 
+>>> 17%2
+1
+>>> 17%3
+2
+>>> 45-34
+11
+>>> 2*4
+8
+>>> 2**4
+16
+>>> 
+>>> *---->>>> MULTIPLICATION
+SyntaxError: invalid syntax
+>>> 
+>>> *------->>> USE FOR POWER
+SyntaxError: invalid syntax
+
+"Durgapur"*10
+'DurgapurDurgapurDurgapurDurgapurDurgapurDurgapurDurgapurDurgapurDurgapurDurgapur'
+10*'Suri '
+'Suri Suri Suri Suri Suri Suri Suri Suri Suri Suri '
+111111111537485448*4646463521414364759
+516273726582728887154794685126527032
+516273726582728887154794685126527032
+516273726582728887154794685126527032
+*516273726582728887154794685126527032
+516273726582728887154794685126527032
+
+SyntaxError: multiple statements found while compiling a single statement
+516273726582728887154794685126527032516273726582728887154794685126527032*5162737265827288871547946851265270325757516273726582728887154794685126527032
+2665385607596183039780517376352032232430609606183387032843237728630373796211903275548812960479861211208168295470679276961608967417140858929826729024
+22/7
+3.142857142857143
+3.142857142857143
+3.142857142857143
+
+float a=(float) 18/5; ---------->>>>>>  TYPE CASTING  --->> IN C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
